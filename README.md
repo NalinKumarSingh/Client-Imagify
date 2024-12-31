@@ -10,7 +10,6 @@
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Deployment](#deployment)  
-- [Screenshots](#screenshots)  
 
 ---
 
@@ -50,16 +49,7 @@ Check out the live version of **Imagify**: [Imagify Demo](https://client-imagify
 
 ## Deployment
 
-Imagify can be deployed on platforms like **Render**, **Vercel**, or **Heroku** for seamless scaling and performance.
-
----
-
-## Screenshots
-
-### Home Page  
-![Home Page](https://drive.google.com/file/d/1MPzEZFjwa_jAfLkCBs4BFdkCc8Ms96Un/view?usp=drivesdk) 
-
-### Text-to-Image Generation  
-![Text-to-Image](#)  
+The Backend is deployed on **Render** and the Frontend is deployed on
+**Vercel** for seamless scaling and performance.
 
 ---
